@@ -1,0 +1,141 @@
+{
+    "AAMaritime": {
+        "columns": [
+            "Holder",
+            "ObjName",
+            "MMSINo",
+            "CallSign",
+            "AssignNo",
+            "ExpiryDate"
+        ],
+        "page_count": 123
+    },
+    "AAAero": {
+        "columns": [
+            "Holder",
+            "ObjName",
+            "CallSign",
+            "AssignNo",
+            "ExpiryDate"
+        ],
+        "page_count": 28
+    },
+    "AARadio": {
+        "columns": [
+            "Holder",
+            "Callsign",
+            "AssignNo",
+            "ExpiryDate"
+        ],
+        "page_count": 675
+    },
+    "AABroadcast": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "TX",
+            "Region",
+            "ExpiryDate"
+        ],
+        "page_count": 15
+    },
+    "AAEarth": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "RX",
+            "TX",
+            "Region",
+            "ExpiryDate"
+        ],
+        "page_count": 286
+    },
+    "AATerrestrial": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "RX",
+            "TX",
+            "Region",
+            "StationLink",
+            "IssuedDate",
+            "ExpiryDate"
+        ],
+        "page_count": 3040
+    },
+    "lmob_cell": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "RX",
+            "TX",
+            "Region",
+            "ExpiryDate"
+        ],
+        "page_count": 1872
+    },
+    "celcom_celltpa": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "RX",
+            "TX",
+            "Region",
+            "ExpiryDate"
+        ],
+        "page_count": 27
+    },
+    "digi_cell": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "RX",
+            "TX",
+            "Region",
+            "ExpiryDate"
+        ],
+        "page_count": 1968
+    },
+    "maxis_cell": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "RX",
+            "TX",
+            "Region",
+            "ExpiryDate"
+        ],
+        "page_count": 1135
+    },
+    "tm_cell": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "RX",
+            "TX",
+            "Region",
+            "ExpiryDate"
+        ],
+        "page_count": 548
+    },
+    "mmob_cell": {
+        "columns": [
+            "Holder",
+            "AssignNo",
+            "location",
+            "RX",
+            "TX",
+            "Region",
+            "ExpiryDate"
+        ],
+        "page_count": 768
+    }
+}
